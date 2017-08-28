@@ -1,0 +1,17 @@
+---
+layout: default
+title: Zonnon compiler
+---
+
+<a href="http://zonnon.ethz.ch">Zonnon</a> is a general-purpose programming language in the Pascal, Modula-2 and Oberon family. 
+Its conceptual model is based on modules, objects, definitions and implementations. 
+Zonnon offers a computing model based on active objects with their interaction defined by syntax controlled dialogs.  
+
+<div id="home">
+  <h1>News</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

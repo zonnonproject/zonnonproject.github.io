@@ -1,3 +1,8 @@
-theme: jekyll-theme-architect
-title: Zonnon
-description: Tools for Zonnon programming language
+name:         Zonnon
+tagline:      Tools for Zonnon programming language
+baseurl:      ""
+
+gems:
+  - jekyll-paginate
+
+markdown: kramdown
