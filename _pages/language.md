@@ -389,9 +389,9 @@ end Example92.
 
 # Program composition
 
-Read [Program Composition in the Small](http://blogs.ethz.ch/zonnon/2010/08/07/program-composition-in-the-small/)
+Read [Program Composition in the Small](https://blog.mitin.ch/program-composition-in-small.html)
 
 # Concurrency
-Read [A note on activities, protocols and communication](http://blogs.ethz.ch/zonnon/2010/09/06/a-note-on-activities-protocols-and-communication/)
+Read [A note on activities, protocols and communication](https://blog.mitin.ch/activities-protocols-communication.html)
 
-[Zonnon Language Report]: http://zonnon.ethz.ch/archive/znnLanguageReportv04y090606draft.pdf
+[Zonnon Language Report]: https://zonnon.org/files/Zonnon-Language-Report_v03r01_35_y051214.pdf
